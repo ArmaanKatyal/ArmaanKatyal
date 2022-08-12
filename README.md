@@ -3,6 +3,9 @@ I am an Honors Computing Science student at the University of Alberta interested
 
 🔭 I’m currently working on an End-to-End encrypted chat engine<br>🌱 I’m currently learning Kubernetes, Jenkins<br>📫 How to reach me: armaankatyal3@gmail.com
 
+I also write blogs. Check them out on my website:
+https://armaankatyal.netlify.app
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armaan-katyal) 
